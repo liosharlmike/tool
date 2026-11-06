@@ -1,0 +1,14 @@
+{
+  "target": "192.168.100.1",
+  "scope": "lab",
+  "purpose": "authorized internal assessment",
+  "authorized": true,
+  "hosts": [
+    {
+      "ip": "192.168.100.1",
+      "state": "up",
+      "ports": []
+    }
+  ],
+  "findings": []
+}

@@ -1,0 +1,5 @@
+LIOSHARL CYBERSECURITY SUITE
+Assessment Report
+Target: localhost
+Scope: lab
+Purpose: authorized internal assessment

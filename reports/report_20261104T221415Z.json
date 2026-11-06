@@ -1,0 +1,14 @@
+{
+  "target": "localhost",
+  "scope": "lab",
+  "purpose": "authorized internal assessment",
+  "authorized": true,
+  "hosts": [
+    {
+      "ip": "127.0.0.1",
+      "state": "up",
+      "ports": []
+    }
+  ],
+  "findings": []
+}

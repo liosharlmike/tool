@@ -1,0 +1,12 @@
+{
+  "default_scan_profile": "basic",
+  "scan_timeout": 300,
+  "report_dir": "./reports",
+  "log_level": "INFO",
+  "ai_provider": "ollama",
+  "ollama_endpoint": "http://127.0.0.1:11434",
+  "ollama_model": "llama3.1",
+  "assessment_retention_days": 90,
+  "tool_locations": {},
+  "interface_preferences": {}
+}

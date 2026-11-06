@@ -1,0 +1,5 @@
+LIOSHARL CYBERSECURITY SUITE
+Assessment Report
+Target: www.rumikesh.co.ke
+Scope: lab
+Purpose: authorized internal assessment

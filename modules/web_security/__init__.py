@@ -1,0 +1,1 @@
+"""Web security assessment module."""

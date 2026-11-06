@@ -1,0 +1,14 @@
+{
+  "target": "www.rumikesh.co.ke",
+  "scope": "lab",
+  "purpose": "authorized internal assessment",
+  "authorized": true,
+  "hosts": [
+    {
+      "ip": "51.255.149.48",
+      "state": "up",
+      "ports": []
+    }
+  ],
+  "findings": []
+}
